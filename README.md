@@ -8,15 +8,13 @@ This project implements two machine-learning classifiers to detect spam emails:
 
 ---
 
-## File Structure
 ids-lab04-spam-classifier/
 ├── part1_dataset.ipynb     # All three parts: data generation, Bayesian, Neural Network
-├── spam_dict.txt           # Spam word dictionary (53 words)
-├── ham_dict.txt            # Ham word dictionary (53 words)
-├── spam_emails.txt         # 1000 generated spam emails
-├── ham_emails.txt          # 2300 generated ham emails
-└── README.md
----
+├── spam_dict.txt           # Spam word dictionary (53 words)[cite: 3]
+├── ham_dict.txt            # Ham word dictionary (53 words)[cite: 3]
+├── spam_emails.txt         # 1000 generated spam emails[cite: 3]
+├── ham_emails.txt          # 2300 generated ham emails[cite: 3]
+└── README.md               # Project Documentation[cite: 3]
 
 ## Requirements
 - Python 3.10+
